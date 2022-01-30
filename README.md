@@ -25,4 +25,5 @@ http://127.0.0.1:8000/redoc
 ## Offcial Documentation
 
 [FastAPI](https://fastapi.tiangolo.com/)
+
 [FastAPI simple security](https://github.com/mrtolkien/fastapi_simple_security)
